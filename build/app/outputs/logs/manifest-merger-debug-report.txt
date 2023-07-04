@@ -1,0 +1,662 @@
+-- Merging decision tree log ---
+provider#vn.hunghd.flutterdownloader.DownloadedFileProvider
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:54:13-62:24
+	android:authorities
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:1-64:12
+MERGED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:1-64:12
+MERGED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] E:\Development\academy_app\academy_app\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] E:\Development\academy_app\academy_app\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:path_provider_android] E:\Development\academy_app\academy_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:connectivity_plus] E:\Development\academy_app\academy_app\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_downloader] E:\Development\academy_app\academy_app\build\flutter_downloader\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:wakelock] E:\Development\academy_app\academy_app\build\wakelock\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] E:\Development\academy_app\academy_app\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] E:\Development\academy_app\academy_app\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] E:\Development\academy_app\academy_app\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:permission_handler] E:\Development\academy_app\academy_app\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player_android] E:\Development\academy_app\academy_app\build\video_player_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\59133be79fb845a4d8cc97fddc54e6d5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\735cb6edc22a746d30ca689c00b957ff\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\mohit\.gradle\caches\transforms-3\390ae1f4f178aca4332ea00b488c8926\transformed\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\29a2db5366b50b8d2c83597b7fb7aef7\transformed\webkit-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\512fb4841c84cda24a57e94355c4393d\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\a4512c8977c18dd2474950a17a83d222\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\c5ae6509122f852b3007f74037dd1b02\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\28fb748b0347476d203a30f92a6a66c6\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\6862e100c19f621ff90812ce6ebb83de\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\71fd618d4d5d3bd624a234b2b693b07c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\7eba164e627fab83b9f470e0bcf24ecc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mohit\.gradle\caches\transforms-3\5d03a6d2f7f7359bbe967374a1e2a6ec\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\6acabb575589ab49f2db490c42d2e712\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\mohit\.gradle\caches\transforms-3\c1c34bf9c09228efe6799e93d10c25ee\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\mohit\.gradle\caches\transforms-3\085f9871ef02dc21a84b430b42d961f6\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\28a9669e924b9f1c70ba7e3ee20023e0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\d4a13eb04116872b0d4b6946ec62becb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\2008aec5b5eb8219f9de2c539359f78f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\f3684ffd285bff941ea0edf4fa476fe0\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\51f263db3a4982c8a3964eb29d6422a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\506ebb01a24e482fae1c2037dfe1a13e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\5126ce96ae0637e0d74e17489faa6e17\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d147b43f1041afadf77bcda017545826\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\4280b72dc9bdd29e19a60c82bda7bd45\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\e5e7542b53426808e3a6b9fd7b15d4ea\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\e1c317f53de0965f45aa7a0d2fb71f68\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\ef568c99ddd0745fe601c65c5904f63e\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\b9a3d14c479555e736417d7cf7f0951d\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\353d2e6d4df74ddd7402dec8c28516a5\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\966424faa4075f6dbb36fe4c0bef5e0d\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\mohit\.gradle\caches\transforms-3\3128051c3aece37c9cd16e4eee6bdb3f\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\df447aad40b4a13a77a16dbbeeafa3f4\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d1bdd0b86babcd4d667689e2827c2209\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\5b65923440f6c71922d2f49c4778affb\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\917a7c245bec625a652371f1fa47a407\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:2:5-51
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.INTERNET
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:6:22-78
+queries
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:8:5-13:15
+MERGED from [:flutter_downloader] E:\Development\academy_app\academy_app\build\flutter_downloader\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-14:15
+MERGED from [:flutter_downloader] E:\Development\academy_app\academy_app\build\flutter_downloader\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-14:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:9:9-12:18
+action#android.intent.action.VIEW
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:10:13-65
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:10:21-62
+data
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:11:13-44
+	android:scheme
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:11:19-41
+application
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:15:4-63:19
+MERGED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\735cb6edc22a746d30ca689c00b957ff\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\735cb6edc22a746d30ca689c00b957ff\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\mohit\.gradle\caches\transforms-3\c1c34bf9c09228efe6799e93d10c25ee\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\mohit\.gradle\caches\transforms-3\c1c34bf9c09228efe6799e93d10c25ee\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\28a9669e924b9f1c70ba7e3ee20023e0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\28a9669e924b9f1c70ba7e3ee20023e0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\51f263db3a4982c8a3964eb29d6422a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\51f263db3a4982c8a3964eb29d6422a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:17:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\mohit\.gradle\caches\transforms-3\c1c34bf9c09228efe6799e93d10c25ee\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:16:9-36
+	android:icon
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:19:9-43
+	android:usesCleartextTraffic
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:18:9-44
+activity#com.example.academy_app.MainActivity
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:20:9-48:20
+	android:launchMode
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:23:13-43
+	android:hardwareAccelerated
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:27:13-55
+	android:exported
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:22:13-36
+	android:configChanges
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:25:13-163
+	android:theme
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:21:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:34:15-52
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:33:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#flutter_deeplinking_enabled
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:41:13-90
+	android:value
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:41:67-87
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:41:24-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:academybycreativeitem
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:42:13-47:29
+	android:autoVerify
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:42:28-53
+category#android.intent.category.DEFAULT
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:44:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:45:17-78
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:45:27-75
+meta-data#flutterEmbedding
+ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:51:9-53:33
+	android:value
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:53:13-30
+	android:name
+		ADDED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml:52:13-44
+uses-sdk
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] E:\Development\academy_app\academy_app\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] E:\Development\academy_app\academy_app\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] E:\Development\academy_app\academy_app\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] E:\Development\academy_app\academy_app\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] E:\Development\academy_app\academy_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] E:\Development\academy_app\academy_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity_plus] E:\Development\academy_app\academy_app\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity_plus] E:\Development\academy_app\academy_app\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_downloader] E:\Development\academy_app\academy_app\build\flutter_downloader\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_downloader] E:\Development\academy_app\academy_app\build\flutter_downloader\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock] E:\Development\academy_app\academy_app\build\wakelock\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock] E:\Development\academy_app\academy_app\build\wakelock\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] E:\Development\academy_app\academy_app\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] E:\Development\academy_app\academy_app\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] E:\Development\academy_app\academy_app\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] E:\Development\academy_app\academy_app\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] E:\Development\academy_app\academy_app\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] E:\Development\academy_app\academy_app\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler] E:\Development\academy_app\academy_app\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler] E:\Development\academy_app\academy_app\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] E:\Development\academy_app\academy_app\build\video_player_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] E:\Development\academy_app\academy_app\build\video_player_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\59133be79fb845a4d8cc97fddc54e6d5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\59133be79fb845a4d8cc97fddc54e6d5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\735cb6edc22a746d30ca689c00b957ff\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\735cb6edc22a746d30ca689c00b957ff\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\mohit\.gradle\caches\transforms-3\390ae1f4f178aca4332ea00b488c8926\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\mohit\.gradle\caches\transforms-3\390ae1f4f178aca4332ea00b488c8926\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\29a2db5366b50b8d2c83597b7fb7aef7\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\29a2db5366b50b8d2c83597b7fb7aef7\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\512fb4841c84cda24a57e94355c4393d\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\512fb4841c84cda24a57e94355c4393d\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\a4512c8977c18dd2474950a17a83d222\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\a4512c8977c18dd2474950a17a83d222\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\c5ae6509122f852b3007f74037dd1b02\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\c5ae6509122f852b3007f74037dd1b02\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\28fb748b0347476d203a30f92a6a66c6\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\28fb748b0347476d203a30f92a6a66c6\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\6862e100c19f621ff90812ce6ebb83de\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\6862e100c19f621ff90812ce6ebb83de\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\71fd618d4d5d3bd624a234b2b693b07c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\71fd618d4d5d3bd624a234b2b693b07c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\7eba164e627fab83b9f470e0bcf24ecc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\7eba164e627fab83b9f470e0bcf24ecc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mohit\.gradle\caches\transforms-3\5d03a6d2f7f7359bbe967374a1e2a6ec\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mohit\.gradle\caches\transforms-3\5d03a6d2f7f7359bbe967374a1e2a6ec\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\6acabb575589ab49f2db490c42d2e712\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\6acabb575589ab49f2db490c42d2e712\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\mohit\.gradle\caches\transforms-3\c1c34bf9c09228efe6799e93d10c25ee\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\mohit\.gradle\caches\transforms-3\c1c34bf9c09228efe6799e93d10c25ee\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\mohit\.gradle\caches\transforms-3\085f9871ef02dc21a84b430b42d961f6\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\mohit\.gradle\caches\transforms-3\085f9871ef02dc21a84b430b42d961f6\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\28a9669e924b9f1c70ba7e3ee20023e0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\28a9669e924b9f1c70ba7e3ee20023e0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\d4a13eb04116872b0d4b6946ec62becb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\d4a13eb04116872b0d4b6946ec62becb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\2008aec5b5eb8219f9de2c539359f78f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\2008aec5b5eb8219f9de2c539359f78f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\f3684ffd285bff941ea0edf4fa476fe0\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\f3684ffd285bff941ea0edf4fa476fe0\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\51f263db3a4982c8a3964eb29d6422a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\51f263db3a4982c8a3964eb29d6422a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\506ebb01a24e482fae1c2037dfe1a13e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\506ebb01a24e482fae1c2037dfe1a13e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\5126ce96ae0637e0d74e17489faa6e17\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\5126ce96ae0637e0d74e17489faa6e17\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d147b43f1041afadf77bcda017545826\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d147b43f1041afadf77bcda017545826\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\4280b72dc9bdd29e19a60c82bda7bd45\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\4280b72dc9bdd29e19a60c82bda7bd45\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\e5e7542b53426808e3a6b9fd7b15d4ea\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\e5e7542b53426808e3a6b9fd7b15d4ea\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\e1c317f53de0965f45aa7a0d2fb71f68\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\e1c317f53de0965f45aa7a0d2fb71f68\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\ef568c99ddd0745fe601c65c5904f63e\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\ef568c99ddd0745fe601c65c5904f63e\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\b9a3d14c479555e736417d7cf7f0951d\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\b9a3d14c479555e736417d7cf7f0951d\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\353d2e6d4df74ddd7402dec8c28516a5\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\353d2e6d4df74ddd7402dec8c28516a5\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\966424faa4075f6dbb36fe4c0bef5e0d\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\966424faa4075f6dbb36fe4c0bef5e0d\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\mohit\.gradle\caches\transforms-3\3128051c3aece37c9cd16e4eee6bdb3f\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\mohit\.gradle\caches\transforms-3\3128051c3aece37c9cd16e4eee6bdb3f\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\df447aad40b4a13a77a16dbbeeafa3f4\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\df447aad40b4a13a77a16dbbeeafa3f4\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d1bdd0b86babcd4d667689e2827c2209\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d1bdd0b86babcd4d667689e2827c2209\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\5b65923440f6c71922d2f49c4778affb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\5b65923440f6c71922d2f49c4778affb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\917a7c245bec625a652371f1fa47a407\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\917a7c245bec625a652371f1fa47a407\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\academy_app\academy_app\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_core] E:\Development\academy_app\academy_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+	android:resource
+		ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+	android:name
+		ADDED from [:image_picker_android] E:\Development\academy_app\academy_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] E:\Development\academy_app\academy_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity_plus] E:\Development\academy_app\academy_app\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\28fb748b0347476d203a30f92a6a66c6\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\28fb748b0347476d203a30f92a6a66c6\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\966424faa4075f6dbb36fe4c0bef5e0d\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\mohit\.gradle\caches\transforms-3\966424faa4075f6dbb36fe4c0bef5e0d\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:connectivity_plus] E:\Development\academy_app\academy_app\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+intent#action:name:android.intent.action.VIEW
+ADDED from [:flutter_downloader] E:\Development\academy_app\academy_app\build\flutter_downloader\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-13:18
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:share] E:\Development\academy_app\academy_app\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-70
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mohit\.gradle\caches\transforms-3\1ac774aa3a20ffec32f439e4d395f64b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\b302f56210d9301ad396218ad0ce3cd2\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\61595db014841a30b6609d46baf22282\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\28a9669e924b9f1c70ba7e3ee20023e0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\28a9669e924b9f1c70ba7e3ee20023e0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\mohit\.gradle\caches\transforms-3\700960f1f6dfcd3961e8fe30a28ade76\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mohit\.gradle\caches\transforms-3\babe19004adb31d6af73621e0ccc9093\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

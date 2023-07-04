@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.academy_app-mergeDebugResources-18:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mohit\\.gradle\\caches\\transforms-3\\700960f1f6dfcd3961e8fe30a28ade76\\transformed\\work-runtime-2.7.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
