@@ -1,10 +1,10 @@
-#Tue Jun 27 14:00:09 IST 2023
-base.0=E\:\\Development\\academy_app\\academy_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=E\:\\Development\\academy_app\\academy_app\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.2=E\:\\Development\\academy_app\\academy_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.3=E\:\\Development\\academy_app\\academy_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.4=E\:\\Development\\academy_app\\academy_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.5=E\:\\Development\\academy_app\\academy_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Wed Jul 26 20:02:43 IST 2023
+base.0=/home/divyansh/bpgclms_flutter/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/divyansh/bpgclms_flutter/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
+base.2=/home/divyansh/bpgclms_flutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.3=/home/divyansh/bpgclms_flutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.4=/home/divyansh/bpgclms_flutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+base.5=/home/divyansh/bpgclms_flutter/build/app/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex

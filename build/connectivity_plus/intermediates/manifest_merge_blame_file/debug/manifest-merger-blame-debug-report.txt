@@ -4,12 +4,12 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="16"
-6-->C:\Users\mohit\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\connectivity_plus-2.3.6+1\android\src\main\AndroidManifest.xml
+6-->/home/divyansh/.pub-cache/hosted/pub.dev/connectivity_plus-2.3.9/android/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="16" />
-7-->C:\Users\mohit\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\connectivity_plus-2.3.6+1\android\src\main\AndroidManifest.xml
+7-->/home/divyansh/.pub-cache/hosted/pub.dev/connectivity_plus-2.3.9/android/src/main/AndroidManifest.xml
 8
 9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-9-->C:\Users\mohit\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\connectivity_plus-2.3.6+1\android\src\main\AndroidManifest.xml:3:3-76
-9-->C:\Users\mohit\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\connectivity_plus-2.3.6+1\android\src\main\AndroidManifest.xml:3:20-74
+9-->/home/divyansh/.pub-cache/hosted/pub.dev/connectivity_plus-2.3.9/android/src/main/AndroidManifest.xml:3:3-76
+9-->/home/divyansh/.pub-cache/hosted/pub.dev/connectivity_plus-2.3.9/android/src/main/AndroidManifest.xml:3:20-74
 10
 11</manifest>

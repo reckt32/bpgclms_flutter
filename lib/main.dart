@@ -6,6 +6,7 @@ import 'package:academy_app/screens/auth_screen_private.dart';
 import 'package:academy_app/screens/downloaded_course_list.dart';
 import 'package:academy_app/screens/edit_password_screen.dart';
 import 'package:academy_app/screens/edit_profile_screen.dart';
+import 'package:academy_app/screens/google_sign_in.dart';
 import 'package:academy_app/screens/sub_category_screen.dart';
 import 'package:academy_app/screens/verification_screen.dart';
 import 'package:academy_app/screens/webview_screen.dart';
@@ -32,6 +33,7 @@ import 'screens/auth_screen.dart';
 import 'screens/course_detail_screen.dart';
 import 'screens/splash_screen.dart';
 import 'screens/tabs_screen.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -51,6 +53,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
+        ChangeNotifierProvider(create: (context) => GoogleSignInProvider()),
         ChangeNotifierProvider(
           create: (ctx) => Auth(),
         ),
@@ -97,7 +100,7 @@ class MyApp extends StatelessWidget {
           routes: {
             '/home': (ctx) => const TabsScreen(),
             AuthScreen.routeName: (ctx) => const AuthScreen(),
-            AuthScreenPrivate.routeName: (ctx) => const AuthScreenPrivate(),
+            //AuthScreenPrivate.routeName: (ctx) => const AuthScreenPrivate(),
             SignUpScreen.routeName: (ctx) => const SignUpScreen(),
             ForgotPassword.routeName: (ctx) => const ForgotPassword(),
             CoursesScreen.routeName: (ctx) => const CoursesScreen(),

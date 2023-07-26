@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import '../constants.dart';
 import 'search_widget.dart';
 
-class CustomAppBar extends StatefulWidget with PreferredSizeWidget {
+class CustomAppBar extends StatefulWidget implements PreferredSizeWidget {
   @override
   final Size preferredSize;
 

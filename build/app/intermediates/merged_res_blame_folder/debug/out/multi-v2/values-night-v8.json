@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.academy_app-mergeDebugResources-18:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.academy_app-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "E:\\Development\\academy_app\\academy_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "/home/divyansh/bpgclms_flutter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
-                        "startOffsets": "175,831",
+                        "startOffsets": "172,817",
                         "endLines": "7,16",
                         "endColumns": "12,12",
-                        "endOffsets": "482,997"
+                        "endOffsets": "475,981"
                     },
                     "to": {
                         "startLines": "2,6",

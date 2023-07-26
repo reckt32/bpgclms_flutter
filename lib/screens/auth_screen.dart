@@ -4,9 +4,13 @@ import 'package:academy_app/constants.dart';
 import 'package:academy_app/models/common_functions.dart';
 import 'package:academy_app/providers/auth.dart';
 import 'package:academy_app/screens/forgot_password_screen.dart';
+import 'package:academy_app/screens/google_sign_in.dart';
 import 'package:academy_app/screens/signup_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 class AuthScreen extends StatefulWidget {
   static const routeName = '/auth';
@@ -115,12 +119,17 @@ class _AuthScreenState extends State<AuthScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: kBackgroundColor,
+      backgroundColor: const Color.fromARGB(255, 129, 129, 129),
       appBar: AppBar(
         key: scaffoldKey,
         elevation: 0,
         iconTheme: const IconThemeData(color: kSelectItemColor),
-        backgroundColor: kBackgroundColor,
+        backgroundColor: Colors.black,
+        centerTitle: true,
+        title: Text(
+          'BitsHub',
+          style: TextStyle(color: Colors.white),
+        ),
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -145,7 +154,7 @@ class _AuthScreenState extends State<AuthScreen> {
                           radius: 50,
                           backgroundColor: kBackgroundColor,
                           child: Image.asset(
-                            'assets/images/do_login.png',
+                            'assets/images/BITS_Pilani-Logo.svg.png',
                             height: 70,
                           ),
                         ),
@@ -330,13 +339,19 @@ class _AuthScreenState extends State<AuthScreen> {
                                     color: kBackgroundColor,
                                     onPressed: () {
                                       //TODO: Implement Google Login here.
+
+                                      final provider =
+                                          Provider.of<GoogleSignInProvider>(
+                                              context,
+                                              listen: false);
+                                      provider.googleLogin(context);
                                     },
                                     padding: const EdgeInsets.symmetric(
                                         horizontal: 20, vertical: 16),
                                     shape: RoundedRectangleBorder(
                                       borderRadius:
                                           BorderRadiusDirectional.circular(10),
-                                      // side: const BorderSide(color: kRedColor),
+                                      side: const BorderSide(color: kRedColor),
                                     ),
                                     child: Row(
                                       mainAxisAlignment:

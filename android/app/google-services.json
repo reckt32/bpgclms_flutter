@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "85787007535",
-    "project_id": "bitshub-2f5c8",
-    "storage_bucket": "bitshub-2f5c8.appspot.com"
+    "project_number": "62333145442",
+    "project_id": "bpgclms",
+    "storage_bucket": "bpgclms.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:85787007535:android:637fa7c52a6ede1b1204da",
+        "mobilesdk_app_id": "1:62333145442:android:1a3ac5de92947a1342dc3b",
         "android_client_info": {
-          "package_name": "com.example.academy_app"
+          "package_name": "com.bpgc.academy_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "85787007535-idtvi8hskarhg7skelgkbk7o0631f84p.apps.googleusercontent.com",
+          "client_id": "62333145442-u5oh1h7lcnctsgj20l3r5031j88sqbof.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBGDatgGfQIXenAE1Wwo_-Wud2n0KCPPSY"
+          "current_key": "AIzaSyDuyfKOULGnIvvTbLMfQ0TACU06jNHhIsA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "85787007535-idtvi8hskarhg7skelgkbk7o0631f84p.apps.googleusercontent.com",
+              "client_id": "62333145442-8lrhn1p7k407uav97rdc4ldocs51nhfk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

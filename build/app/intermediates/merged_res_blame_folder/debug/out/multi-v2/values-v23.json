@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.academy_app-mergeDebugResources-18:/values-v23/values-v23.xml",
+            "outputFile": "com.example.academy_app-mergeDebugResources-29:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mohit\\.gradle\\caches\\transforms-3\\700960f1f6dfcd3961e8fe30a28ade76\\transformed\\work-runtime-2.7.1\\res\\values-v23\\values-v23.xml",
+                    "source": "/home/divyansh/.gradle/caches/transforms-3/8fca1f6b4230f69761e71965b1a4e012/transformed/work-runtime-2.7.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -86,7 +86,7 @@ class _McbdThreeState extends State<McbdThree>
     addonStatus('live-class');
     addonStatus('forum');
     bindBackgroundIsolate();
-    FlutterDownloader.registerCallback(downloadCallback);
+    FlutterDownloader.registerCallback(downloadCallback as DownloadCallback);
   }
 
   static void downloadCallback(

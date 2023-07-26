@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.academy_app-mergeDebugResources-18:/values-nb/values-nb.xml",
+            "outputFile": "com.example.academy_app-mergeDebugResources-29:/values-nb/values-nb.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mohit\\.gradle\\caches\\transforms-3\\c1c34bf9c09228efe6799e93d10c25ee\\transformed\\core-1.8.0\\res\\values-nb\\values-nb.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "12",
-                        "startColumns": "4",
-                        "startOffsets": "878",
-                        "endColumns": "100",
-                        "endOffsets": "974"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\mohit\\.gradle\\caches\\transforms-3\\61595db014841a30b6609d46baf22282\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-nb\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "125",
-                        "endOffsets": "320"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "129",
-                        "endOffsets": "180"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\mohit\\.gradle\\caches\\transforms-3\\28fb748b0347476d203a30f92a6a66c6\\transformed\\jetified-exoplayer-core-2.18.0\\res\\values-nb\\values-nb.xml",
+                    "source": "/home/divyansh/.gradle/caches/transforms-3/4a840c5f48ddf6db24a21cee2f123aff/transformed/jetified-exoplayer-core-2.18.7/res/values-nb/values-nb.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -47,11 +13,79 @@
                         "endOffsets": "126,188,252,323,403,481,575,672,743"
                     },
                     "to": {
-                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startLines": "28,29,30,31,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "185,261,323,387,458,538,616,710,807",
+                        "startOffsets": "3105,3181,3243,3307,3378,3458,3536,3630,3727",
                         "endColumns": "75,61,63,70,79,77,93,96,70",
-                        "endOffsets": "256,318,382,453,533,611,705,802,873"
+                        "endOffsets": "3176,3238,3302,3373,3453,3531,3625,3722,3793"
+                    }
+                },
+                {
+                    "source": "/home/divyansh/.gradle/caches/transforms-3/035c814ae5c9f709e4b5d261aba21486/transformed/core-1.10.1/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,251,348,447,555,661,781",
+                        "endColumns": "93,101,96,98,107,105,119,100",
+                        "endOffsets": "144,246,343,442,550,656,776,877"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,40",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,251,348,447,555,661,4108",
+                        "endColumns": "93,101,96,98,107,105,119,100",
+                        "endOffsets": "144,246,343,442,550,656,776,4204"
+                    }
+                },
+                {
+                    "source": "/home/divyansh/.gradle/caches/transforms-3/e2b9a8c9a125cb51ea8aabbf38f65bd5/transformed/jetified-play-services-base-18.0.1/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,295,450,572,677,829,955,1071,1170,1320,1423,1580,1704,1842,2014,2077,2135",
+                        "endColumns": "101,154,121,104,151,125,115,98,149,102,156,123,137,171,62,57,73",
+                        "endOffsets": "294,449,571,676,828,954,1070,1169,1319,1422,1579,1703,1841,2013,2076,2134,2208"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "781,887,1046,1172,1281,1437,1567,1687,1920,2074,2181,2342,2470,2612,2788,2855,2917",
+                        "endColumns": "105,158,125,108,155,129,119,102,153,106,160,127,141,175,66,61,77",
+                        "endOffsets": "882,1041,1167,1276,1432,1562,1682,1785,2069,2176,2337,2465,2607,2783,2850,2912,2990"
+                    }
+                },
+                {
+                    "source": "/home/divyansh/.gradle/caches/transforms-3/fd0bfed368d8ac96593da115f7330d45/transformed/jetified-play-services-basement-18.2.0/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "125",
+                        "endOffsets": "320"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1790",
+                        "endColumns": "129",
+                        "endOffsets": "1915"
+                    }
+                },
+                {
+                    "source": "/home/divyansh/.gradle/caches/transforms-3/93051879c2e2a121f8bed2f797980a32/transformed/browser-1.4.0/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,165,266,378",
+                        "endColumns": "109,100,111,96",
+                        "endOffsets": "160,261,373,470"
+                    },
+                    "to": {
+                        "startLines": "27,37,38,39",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2995,3798,3899,4011",
+                        "endColumns": "109,100,111,96",
+                        "endOffsets": "3100,3894,4006,4103"
                     }
                 }
             ]
